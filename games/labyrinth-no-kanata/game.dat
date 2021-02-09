@@ -1,0 +1,10 @@
+title = "ラビリンスの彼方"
+description = "Beyond the Labyrinth (ラビリンスの彼方, Rabirinsu no Kanata) is a dungeon crawler role-playing video game developed by tri-Ace and published by Konami for the Nintendo 3DS handheld video game console."
+github_issues = 
+needs_system_files = false
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000065C00"
+region = "jpn"
+release_date = "2012-01-19"
